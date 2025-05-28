@@ -1,0 +1,8 @@
+# Sample mesh file for J-integral calculation
+# Mesh dimensions (nx ny)
+21 21
+# Domain size (width height)
+2.000000 2.000000
+# Node coordinates (x y) - automatically generated for rectangular mesh
+# Crack definition (start_x start_y end_x end_y)
+0.500000 1.000000 1.000000 1.000000 
