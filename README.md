@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements the J-integral calculation for fracture mechanics analysis, originally developed as part of PhD research in 2010. The J-integral is a fundamental parameter in fracture mechanics that characterizes the energy release rate at a crack tip and is used to predict crack growth behavior.
+This project implements the J-integral calculation for fracture mechanics analysis, originally developed as part of my PhD research in 2010. The J-integral is a fundamental parameter in fracture mechanics that characterizes the energy release rate at a crack tip and is used to predict crack growth behavior.
 
 ## Theoretical Background
 
